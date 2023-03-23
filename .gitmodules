@@ -8,3 +8,8 @@
 	url = https://github.com/larshernandez/ccostr
 	shallow = true
 	registered = true
+[submodule "dagirlite"]
+	path = dagirlite
+	url = https://github.com/cran/dagirlite
+	shallow = true
+	registered = true
